@@ -16,6 +16,5 @@ A collection of **self-initiated demonstration projects** for UI/UX design, web 
 | 6-week website launch plan | [Excel project tracker](03_Website_Launch_Project_Tracker.xlsx) |
 | Executive assistant toolkit | [Word document](04_Executive_Assistant_Toolkit.docx) |
 | Customer support templates | [Word document](05_Customer_Support_Template_Pack.docx) |
-
-
+| Upwork descriptions | [Portfolio copy and guide](00_Upwork_Portfolio_Copy_and_Guide.docx) |
 
